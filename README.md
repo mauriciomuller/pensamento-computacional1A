@@ -1,2 +1,3 @@
-# pensamento-computacional1A
+# pensamento-computacional1A 
+## turma manhã
 material aulas pensamento computacional 1A
